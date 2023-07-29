@@ -1,14 +1,8 @@
 /**
  * STACK
  * 
- * The stack is a data structure that holds items in a linear
- * manner, it follows the last in first out principle. This means
- * items are retrieved from the last entry to the first entry.
- * 
- * The methods that can be performed are:
- * Pop: Removes the last item from the stack and returns it.
- * Push: Adds an item to the end of the stack
- * Peek: Returns the value of the last stack entry.
+ * A data structure that is used to access entries in a linear manner.
+ * It utilizes the princile of Last In First Out.
  */
 
 function Stack(){
